@@ -7,7 +7,7 @@ https://youtu.be/vAIcTFgK7co
 Get the Balls" is a Lua script that brings to life a simple game concept. Players control a paddle to catch falling balls, testing their agility and timing. The game is developed using the LÖVE framework, known for its graphics capabilities and user input handling.
 
 ### Overview of Code Structure
-####Initialization
+#### Initialization
 The script begins by importing the LÖVE module, a necessary step in setting up the game environment. It also initializes the random seed for dynamic gameplay experiences. Window dimensions are retrieved using LÖVE's graphics module, preparing for responsive gameplay.
 
 #### Button Creation
