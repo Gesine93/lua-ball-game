@@ -1,10 +1,10 @@
-#  "Get the Balls"
+#  "Catch the Balls"
 
 ### Video Demo
 https://youtu.be/vAIcTFgK7co
 
 ### Description
-Get the Balls" is a Lua script that brings to life a simple game concept. Players control a paddle to catch falling balls, testing their agility and timing. The game is developed using the LÖVE framework, known for its graphics capabilities and user input handling.
+"Catch the Balls" is a Lua script that brings to life a simple game concept. Players control a paddle to catch falling balls, testing their agility and timing. The game is developed using the LÖVE framework, known for its graphics capabilities and user input handling.
 
 ### Overview of Code Structure
 #### Initialization
@@ -22,7 +22,7 @@ Game management revolves around the game table and its associated variables. Thi
 The game's logic is designed to deliver smooth and engaging gameplay. Key functions such as StartGame, EndGame, and ShowMenu handle state transitions. Core LÖVE functions like love.load(), love.update(dt), and love.draw() manage game initialization, logic updates, and rendering. Mouse input is integrated into the gameplay loop via the love.mousepressed() function, allowing intuitive controls.
 
 ### Usage
-To start playing "Get the Balls," ensure the LÖVE framework is installed on your system. Save the Lua script as main.lua in a LÖVE project directory. Run the project folder using the LÖVE executable to launch the game.
+To start playing "Catch the Balls," ensure the LÖVE framework is installed on your system. Save the Lua script as main.lua in a LÖVE project directory. Run the project folder using the LÖVE executable to launch the game.
 
 ### Credits
 This game script was created by Gesine Fengler as part of CS50X. It demonstrates the use of Lua programming in game development.
