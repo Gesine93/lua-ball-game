@@ -1,8 +1,5 @@
 #  "Catch the Balls"
 
-### Video Demo
-https://youtu.be/vAIcTFgK7co
-
 ### Description
 "Catch the Balls" is a Lua script that brings to life a simple game concept. Players control a paddle to catch falling balls, testing their agility and timing. The game is developed using the LÖVE framework, known for its graphics capabilities and user input handling.
 
